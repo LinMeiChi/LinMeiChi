@@ -7,6 +7,9 @@
 <!--
 **LinMeiChi/LinMeiChi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+# 我是數據分析師/資料科學家 👩💻
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
