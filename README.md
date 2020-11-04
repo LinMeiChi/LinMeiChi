@@ -5,7 +5,7 @@
 🙏 期望能做出結合科技和醫療的產品或技術，將興趣和工作結合。                                                                                                                             
 🧑‍🤝‍🧑 有機會一起當工作夥伴，互相學習吧! 
 
-# 我是數據分析師/資料科學家 👩‍💻
+# 👩‍💻 我是數據分析師/資料科學家 
 
 <!--
 **LinMeiChi/LinMeiChi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
