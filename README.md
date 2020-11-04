@@ -6,6 +6,8 @@
 🧑‍🤝‍🧑 有機會一起當工作夥伴，互相學習吧! 
 
 # 👩‍💻 我是數據分析師/資料科學家 
+- 🔭 我正在研究關於AI/Big Data相關的技術                                                                                                                                             
+- 🏃‍♀️ 
 
 <!--
 **LinMeiChi/LinMeiChi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
