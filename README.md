@@ -3,12 +3,15 @@
 🧡 個性積極、細心、喜愛助人，且擅於觀察。                                                                                                                                     
 🧐 喜愛實作和學習，尤其是科技和生物醫學方面。                                                                                                                                         
 🙏 期望能做出結合科技和醫療的產品或技術，將興趣和工作結合。                                                                                                                             
-🧑‍🤝‍🧑 有機會一起當工作夥伴，互相學習吧!                                                                                                                                          
+🧑‍🤝‍🧑 有機會一起當工作夥伴，互相學習吧! 
+
+# 我是數據分析師/資料科學家 👩💻
+
 <!--
 **LinMeiChi/LinMeiChi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-# 我是數據分析師/資料科學家 👩💻
+
 
 Here are some ideas to get you started:
 
