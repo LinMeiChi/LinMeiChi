@@ -1,4 +1,5 @@
 ### Hi 👋 我是林美淇
+畢業於義守大學資訊工程學系，主修網通領域。
 
 <!--
 **LinMeiChi/LinMeiChi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
