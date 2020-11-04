@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋 我是林美淇
 
 <!--
 **LinMeiChi/LinMeiChi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
