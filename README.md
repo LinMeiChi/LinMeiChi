@@ -10,7 +10,6 @@
 - 🤓 我剛完成資策會AI/Big Data資料分析師就業養成班課程                                                                                                                                 
 - 🏃‍♀️ 我目前正在參加機器學習百日馬拉松專家陪跑計畫
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 <!--
 **LinMeiChi/LinMeiChi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
