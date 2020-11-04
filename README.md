@@ -7,7 +7,8 @@
 
 # 👩‍💻 我是數據分析師/資料科學家 
 - 🔭 我正在研究關於AI/Big Data相關的技術                                                                                                                                             
-- 🏃‍♀️ 
+- 🤓 我剛完成資策會AI/Big Data資料分析師就業養成班課程                                                                                                                                 
+- 🏃‍♀️ 我目前正在參加機器學習百日馬拉松專家陪跑計畫
 
 <!--
 **LinMeiChi/LinMeiChi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
