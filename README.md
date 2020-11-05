@@ -10,7 +10,8 @@
 - 🤓 我剛完成資策會AI/Big Data資料分析師就業養成班課程                                                                                                                                 
 - 🏃‍♀️ 我目前正在參加機器學習百日馬拉松專家陪跑計畫
                                                                                                                                                                                    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinMeiChi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)                         
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinMeiChi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)    
+
 <!--
 **LinMeiChi/LinMeiChi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
