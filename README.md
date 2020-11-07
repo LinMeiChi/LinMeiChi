@@ -1,4 +1,4 @@
-# Hi 👋 我是林美淇!  <img  width="450" align='right' src="https://i2.read01.com/SIG=339s6vq/304a326b686379493543.jpg">
+# Hi 👋 我是林美淇!  <img  width="250" align='right' src="https://i2.read01.com/SIG=339s6vq/304a326b686379493543.jpg">
 👩‍🎓 畢業於義守大學資訊工程學系，主修網通學程，跨修資管課程。曾任系學會副秘書。      
 🧡 個性積極、細心、喜愛助人，且擅於觀察。                                         
 🧐 喜愛實作和學習，尤其是科技和生物醫學方面。                                       
@@ -10,7 +10,7 @@
 🤓 我剛完成資策會AI/Big Data資料分析師就業養成班課程                                                                                                                               
 🏃‍♀️ 我目前正在參加機器學習百日馬拉松專家陪跑計畫                                                                                                                                   
                                                                                                                                                                                  
- # 💬 聯絡方式        <img  width="450" align='left' src="https://i2.read01.com/SIG=339s6vq/304a326b686379493543.jpg">                                                           
+ # 💬 聯絡方式                                                                   
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/LinMeiCh/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](ntp925531@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%E7%BE%8E%E6%B7%87-%E6%9E%97-1553121b4/)         
