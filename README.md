@@ -14,7 +14,8 @@
  # 💬 聯絡方式
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/LinMeiCh/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](ntp925531@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%E7%BE%8E%E6%B7%87-%E6%9E%97-1553121b4/) 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%E7%BE%8E%E6%B7%87-%E6%9E%97-1553121b4/)
+[<img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"/>](ntp925531@gmail.com)
                                                                                                                                                                                 
 # 🔨 語言和工具                                                                                                                                        
 <code><img width="40" height="40" img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg"></code>
