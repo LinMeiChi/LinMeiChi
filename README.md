@@ -1,11 +1,11 @@
-# Hi 👋 我是林美淇!  <img width="250" align='right' src="https://i2.read01.com/SIG=339s6vq/304a326b686379493543.jpg">
+# Hi 👋 我是林美淇!  <img  width="250" align='right' src="https://i2.read01.com/SIG=339s6vq/304a326b686379493543.jpg">
 👩‍🎓 畢業於義守大學資訊工程學系，主修網通學程，跨修資管課程。曾任系學會副秘書。      
 🧡 個性積極、細心、喜愛助人，且擅於觀察。                                           
 🧐 喜愛實作和學習，尤其是科技和生物醫學方面。                                       
 🙏 期望能做出結合科技和醫療的產品或技術，將興趣和工作結合。                         
 🧑‍🤝‍🧑 有機會一起當工作夥伴，互相學習吧!              
 
-# 👩‍💻 我是數據分析師/資料工程師   <img width="250" align='left' src="https://i2.read01.com/SIG=2ujmi06/304a326b68635a55504c.jpg">                                             
+# 👩‍💻 我是數據分析師/資料工程師   <img  width="350" align='left' src="https://i2.read01.com/SIG=2ujmi06/304a326b68635a55504c.jpg">                                   
 🔭 我正在研究關於AI/Big Data相關的技術                                                                                                                                             
 🤓 我剛完成資策會AI/Big Data資料分析師就業養成班課程                                                                                                                               
 🏃‍♀️ 我目前正在參加機器學習百日馬拉松專家陪跑計畫                                                                                                                                   
@@ -27,7 +27,7 @@
 <code><img width="40" height="40" img src="https://blog.consdata.tech/assets/img/posts/2019-10-03-kafka-companion/kafka.png"></code>
 <code><img width="40" height="40" img src="https://i1.wp.com/datascienceacademy.com.br/blog/wp-content/uploads/2020/08/Serie-Spark-e-Databricks-Parte-1-Arquitetura-e-Componentes-do-Apache-Spark.png?fit=580%2C358"></code>
                                                                                                                                                                                 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinMeiChi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinMeiChi&layout=compact&align='right')](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **LinMeiChi/LinMeiChi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
