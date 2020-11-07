@@ -5,7 +5,7 @@
 🙏 期望能做出結合科技和醫療的產品或技術，將興趣和工作結合。                         
 🧑‍🤝‍🧑 有機會一起當工作夥伴，互相學習吧!              
 
-# 👩‍💻 我是數據分析師/資料工程師   <img  width="350" align='left' src="https://i2.read01.com/SIG=2ujmi06/304a326b68635a55504c.jpg">                                   
+# 👩‍💻 我是數據分析師/資料工程師                                      
 🔭 我正在研究關於AI/Big Data相關的技術                                                                                                                                             
 🤓 我剛完成資策會AI/Big Data資料分析師就業養成班課程                                                                                                                               
 🏃‍♀️ 我目前正在參加機器學習百日馬拉松專家陪跑計畫                                                                                                                                   
@@ -21,7 +21,7 @@
 <code><img width="40" height="40" img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg"></code>
 <code><img width="40" height="40" img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg"></code>
 <code><img width="40" height="40" img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg"></code>
-<code><img width="40" height="40" img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg"></code>
+<code><img width="40" height="40"  img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg"></code>
 <code><img width="40" height="40" img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg"></code>
 <code><img width="40" height="40" img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg"></code>
 <code><img width="40" height="40" img src="https://blog.consdata.tech/assets/img/posts/2019-10-03-kafka-companion/kafka.png"></code>
