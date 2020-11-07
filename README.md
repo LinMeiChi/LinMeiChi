@@ -15,7 +15,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](ntp925531@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%E7%BE%8E%E6%B7%87-%E6%9E%97-1553121b4/)         
                                                                                                                                                                                 
-# 🔨 語言和工具                                                                                                                                        
+# 🔨 語言和工具   <img  width="400" align='left' src="https://i2.read01.com/SIG=339s6vq/304a326b686379493543.jpg">                                                               
 <code><img width="40" height="40" img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg"></code>
 <code><img width="40" height="40" img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker"></code>
 <code><img width="40" height="40" img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg"></code>
@@ -26,7 +26,7 @@
 <code><img width="40" height="40" img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg"></code>
 <code><img width="40" height="40" img src="https://blog.consdata.tech/assets/img/posts/2019-10-03-kafka-companion/kafka.png"></code>
 <code><img width="40" height="40" img src="https://i1.wp.com/datascienceacademy.com.br/blog/wp-content/uploads/2020/08/Serie-Spark-e-Databricks-Parte-1-Arquitetura-e-Componentes-do-Apache-Spark.png?fit=580%2C358"></code>                                                                                                                           
-  <img  width="400" align='left' src="https://i2.read01.com/SIG=339s6vq/304a326b686379493543.jpg">                                                                                                                                                                               
+                                                                                                                                                                                 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinMeiChi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **LinMeiChi/LinMeiChi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
