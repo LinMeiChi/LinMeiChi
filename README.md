@@ -25,7 +25,8 @@
 <code><img width="40" height="40" img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg"></code>
 <code><img width="40" height="40" img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg"></code>
 <code><img width="40" height="40" img src="https://blog.consdata.tech/assets/img/posts/2019-10-03-kafka-companion/kafka.png"></code>
-<code><img width="40" height="40" img src="https://i1.wp.com/datascienceacademy.com.br/blog/wp-content/uploads/2020/08/Serie-Spark-e-Databricks-Parte-1-Arquitetura-e-Componentes-do-Apache-Spark.png?fit=580%2C358"></code>                                            
+<code><img width="40" height="40" img src="https://i1.wp.com/datascienceacademy.com.br/blog/wp-content/uploads/2020/08/Serie-Spark-e-Databricks-Parte-1-Arquitetura-e-Componentes-do-Apache-Spark.png?fit=580%2C358"></code>                                                                                                                           
+                                                                                                                                                                                 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinMeiChi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **LinMeiChi/LinMeiChi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
